@@ -1,4 +1,4 @@
-# 🎉 Tarjeta de Cumpleaños - Jetpack Compose
+# 🎉 Cuadrante de Compose - Jetpack Compose
 
 Este proyecto es parte del curso oficial de Android: **"Android Basics with Compose"**.  
 La app muestra diferentes cudrantes, en donde varia el color de fondo y el texto de adentro.
